@@ -1,0 +1,2 @@
+add_subdirectory(g2o EXCLUDE_FROM_ALL)
+add_subdirectory(DBoW2 EXCLUDE_FROM_ALL)
